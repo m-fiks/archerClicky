@@ -1,0 +1,27 @@
+container {
+    display:inline-block;
+}
+
+.card{
+    background: #fff;
+    border-radius: 4px;
+    height: 145px;
+    margin: 1rem;
+    position: relative;
+    width: 170px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align:center;
+    transition: all .2s ease-in-out;
+}
+
+.img-responsive {
+    width: 80%;
+    margin-left: 20px;
+    padding-top:8px;
+}
+
+.card:hover {
+    box-shadow: 10px 10px 20px rgb(35, 216, 216);
+    transform: scale(1.1);
+    cursor: pointer;
+  }

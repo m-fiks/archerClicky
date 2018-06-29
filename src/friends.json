@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Sterling Archer",
+        "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-archer-h-jon-benjamin.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Malory Archer",
+        "image": "https://78.media.tumblr.com/76a2e0da5418da95b5fdf7d3ed2609a3/tumblr_oup9lhDrH51wyps7io1_1280.png"
+    },
+    {
+        "id": 3,
+        "name": "Lana Kane",
+        "image": "https://cdn.costumewall.com/wp-content/uploads/2017/03/lana-kane-cosplay.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pam Poovey",
+        "image": "https://i.pinimg.com/originals/9a/e5/8b/9ae58bca2295c2c4bf3f964c4741315e.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cheryl Tunt",
+        "image": "https://images.8tracks.com/cover/i/001/844/398/Cheryl_Tunt-422.jpg?rect=350,0,900,900&q=98&fm=jpg&fit=max"
+    },
+    {
+        "id": 6,
+        "name": "Cyril Figgis",
+        "image": "https://tv-fanatic-res.cloudinary.com/iu/s--UTJu7g1i--/t_large/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371217018/cyril-figgis-picture.png"
+    },
+    {
+        "id": 7,
+        "name": "Algernop Krieger",
+        "image": "https://vignette.wikia.nocookie.net/archer/images/7/72/Krieger_Kleanse.JPG/revision/latest?cb=20120128032746"
+    },
+    {
+        "id": 8,
+        "name": "Ray Gillette",
+        "image": "https://pbs.twimg.com/profile_images/1341769399/161958_112239335514626_3868598_n_400x400.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Slater",
+        "image": "https://pbs.twimg.com/profile_images/741361995077783552/fezqnVut.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Barry Dillon",
+        "image": "http://static.tvtropes.org/pmwiki/pub/images/dylan_barry_4876.png"
+    },
+    {
+        "id": 11,
+        "name": "Other Barry",
+        "image": "https://vignette.wikia.nocookie.net/archer/images/a/a4/BarryCyborg.png/revision/latest?cb=20110422175443"
+    },
+    {
+        "id": 12,
+        "name": "Babou",
+        "image": "https://vignette.wikia.nocookie.net/archer/images/6/65/Babou.png/revision/latest?cb=20150318222646"
+    }
+]
