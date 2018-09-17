@@ -27,4 +27,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3. Run `npm start` to run locally
 
 ## License
-[MIT License]()
+[MIT License](#https://github.com/m-fiks/archerClicky/blob/master/README.md)
